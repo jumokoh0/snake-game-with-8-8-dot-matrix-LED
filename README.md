@@ -11,7 +11,7 @@ Snake game with 8x8 LED Matrix based on atmega128
 ![work_shot](https://github.com/jumokoh0/snake-game-with-8-8-dot-matrix-LED/blob/master/image/work_shot.jpg?raw=true)
 --------------
 + Coding snake game with atmega128
-    + The code is in the source folder.
+    + The code is in the 'source' folder.
 ------------
 + video
 <https://youtu.be/i5HBQrdvhpM>
